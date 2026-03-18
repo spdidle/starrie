@@ -1,0 +1,12 @@
+Name,Purpose,Cost Per Item (USD),Quantity,Total (USD),Link,Distributor
+"Standard PCB","Building PCB (INCL SHIPPING)",1.50,1,1.50,"","JLCPCB"
+"Shipping","Shipping (Digikey Only)",5.46,1,5.46,"","Digikey"
+"1µF Electrolytic Capacitor","Building PCB",0.10,1,0.10,"https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/860020672005/5727088","Digikey"
+"3mm LEDs","Building PCB",2.04,1,2.04,"https://www.digikey.ca/en/products/detail/inolux/INL-3AW30/7604621","Digikey"
+"M20-9990246","Building PCB",0.10,1,0.10,"https://www.digikey.ca/en/products/detail/harwin-inc/M20-9990246/3728226","Digikey"
+"K104K10X7RF5UH5","Building PCB",0.25,1,0.25,"https://www.digikey.ca/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K10X7RF5UH5/2356754","Digikey"
+"T93YA503KT20","Building PCB",1.86,1,1.86,"https://www.digikey.ca/en/products/detail/vishay-sfernice/T93YA503KT20/1587723","Digikey"
+"MFR-25FBF52-1K","Building PCB",0.39,1,0.39,"https://www.digikey.ca/en/products/detail/yageo/MFR-25FBF52-1K/13011","Digikey"
+"MFR50SFRF52-470R","Building PCB",0.47,1,0.47,"https://www.digikey.ca/en/products/detail/yageo/MFR50SFRF52-470R/16673889","Digikey"
+"CD4017BE","Building PCB",1.27,1,1.27,"https://www.digikey.ca/en/products/detail/texas-instruments/CD4017BE/67253","Digikey"
+"NE555P","Building PCB",0.51,1,0.51,"https://www.digikey.ca/en/products/detail/texas-instruments/NE555P/277057","Digikey"
