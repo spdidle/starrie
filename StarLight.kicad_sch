@@ -4240,7 +4240,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints1:N16"
+		(property "Footprint" "footprints:N16"
 			(at 114.3 41.91 0)
 			(effects
 				(font
