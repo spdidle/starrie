@@ -1,4 +1,4 @@
-27264252447150819
+27248257916937528
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2813,13 +2813,6 @@ speaker CUI
 0
 2
 2
-CCS811B JOPR Model
-SON60P400X270X110-11N
-
-
-0
-11
-11
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -62201,13 +62194,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-ENS160 BGLM Model
-XDCR_ENS160-BGLM
-
-
-0
-9
-9
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -63286,41 +63272,6 @@ GDT 3R-6
 0
 3
 3
-GL823K Model by Genesys Logic
-SOP64P600X175-16N
-<b>SSOP-16 (150mil)</b><br>
-
-0
-16
-16
-GL823K Model by Genesys Logic 2
-SOP64P600X175-16N
-<b>SSOP-16 (150mil)</b><br>
-
-0
-16
-16
-Hackclub Footprints
-MX_SK6812MINI-E_REV
-Add-on for regular MX-footprints with SK6812 MINI-E
-cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
-0
-4
-4
-Hackclub Footprints
-OLED_0.91_128x32
-SSD1306 OLED module, 0.91 inch, 128x32, I2C (https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf)
-EastRising
-0
-4
-4
-Hackclub Footprints
-XIAO-RP2040-DIP
-
-
-0
-28
-14
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -71854,20 +71805,6 @@ Yellow 5381 Series LED
 0
 2
 2
-MAX30102EFD T Model
-XDCR_MAX30101EFD_
-
-
-0
-14
-14
-MQ-7 Model
-XDCR_MQ-7
-
-
-0
-6
-6
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -107967,21 +107904,21 @@ Varistor VF
 0
 2
 2
-cd4017
+footprints1
 N16
 
 CD4017BE 
 0
 16
 16
-footprints
+footprints2
 SK6812MINI-E_fixed
 Add-on for regular MX-footprints with SK6812 MINI-E
 cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
 0
 4
 4
-footprints
+footprints2
 XIAO-Generic-Hybrid-14P-2.54-21X17.8MM
 
 
